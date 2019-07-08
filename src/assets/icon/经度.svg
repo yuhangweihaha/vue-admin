@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="26px" height="26px" viewBox="0 0 26 26" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.2 (67145) - http://www.bohemiancoding.com/sketch -->
+    <title>经度</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="经度" fill-rule="nonzero">
+            <path d="M13.4814815,26 C6.56769461,26 0.962962963,20.1797017 0.962962963,13 C0.962962963,5.82029825 6.56769461,0 13.4814815,0 C20.3952683,0 26,5.82029825 26,13 C26,20.1797017 20.3952683,26 13.4814815,26 Z M13.4753689,24.5559082 C19.5914112,24.5559082 24.549443,19.4071828 24.549443,13.0559082 C24.549443,6.70463358 19.5914112,1.5559082 13.4753689,1.5559082 C7.35932669,1.5559082 2.40129485,6.70463358 2.40129485,13.0559082 C2.40129485,19.4071828 7.35932669,24.5559082 13.4753689,24.5559082 Z" id="合并形状" fill="#50CF98"></path>
+            <ellipse id="椭圆形" stroke="#50CF98" cx="13.4814815" cy="13" rx="6.74074074" ry="12"></ellipse>
+            <path d="M1.47642235,12.5 L25.7496157,12.5" id="路径-3" stroke="#50CF99" transform="translate(13.613019, 12.500000) rotate(-90.000000) translate(-13.613019, -12.500000) "></path>
+            <path d="M13,0.463125723 L13,24.5456633" id="路径-4" stroke="#50CF99" transform="translate(13.000000, 12.504395) rotate(-90.000000) translate(-13.000000, -12.504395) "></path>
+        </g>
+    </g>
+</svg>
